@@ -1,1 +1,3 @@
+South Villa Private Resort currently uses paper logbooks and Excel files to manage reservations, inventory, payments, and maintenance. These manual processes often cause double bookings, missing records, and calculation errors.
 
+To address these problems, the proposed Online Booking System for South Villa Resort provides a centralized web-based platform where guests can make reservations online while staff manage bookings, payments, inventory, and maintenance in one system. It also includes role-based access, visitor logs, incident reports, and daily or monthly analytics to help improve resort operations, reduce errors, and make management easier.
